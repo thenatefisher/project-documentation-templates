@@ -1,0 +1,1 @@
+**SR_XXXXXX** Users must be able to reset the device remotely. 
